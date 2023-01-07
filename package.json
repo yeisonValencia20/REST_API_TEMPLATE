@@ -17,6 +17,7 @@
     "express-fileupload": "^1.4.0",
     "express-validator": "^6.9.2",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^5.11.15"
+    "mongoose": "^5.11.15",
+    "uuid": "^9.0.0"
   }
 }
